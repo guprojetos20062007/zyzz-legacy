@@ -1,0 +1,17 @@
+# Dados gerados durante o uso
+treinos.json
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
