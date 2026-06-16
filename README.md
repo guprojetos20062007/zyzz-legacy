@@ -84,7 +84,3 @@ Os registros são salvos localmente no arquivo `treinos.json`. Esse arquivo não
 - Cadastro de usuários;
 - Filtros por data e exercício;
 - Desenvolvimento de uma versão web.
-
-## Autor
-
-Projeto acadêmico desenvolvido por Gustavo para a disciplina **Development With Python**.
